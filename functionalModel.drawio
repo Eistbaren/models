@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T14:37:58.476Z" agent="5.0 (Macintosh)" etag="IQLptdL12MDq1H5xID0H" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T14:39:34.419Z" agent="5.0 (Macintosh)" etag="LoaysIXJs_jQO4vfGdvw" version="18.0.6" type="github">
   <diagram id="YEp18ltaeCoRHwWzT_YQ" name="Page-1">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="UPiljFbCd0djJipYUh2Y-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UPiljFbCd0djJipYUh2Y-5" value="&lt;div&gt;search&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="UPiljFbCd0djJipYUh2Y-5" value="&lt;div&gt;search restaurants&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UPiljFbCd0djJipYUh2Y-6" value="filter" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="UPiljFbCd0djJipYUh2Y-6" value="filter restaurants" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="375" y="190" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UPiljFbCd0djJipYUh2Y-7" value="see details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
@@ -37,10 +37,10 @@
         <mxCell id="UPiljFbCd0djJipYUh2Y-13" value="get reminder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="355" y="440" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UPiljFbCd0djJipYUh2Y-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="UPiljFbCd0djJipYUh2Y-9" target="UPiljFbCd0djJipYUh2Y-11">
+        <mxCell id="UPiljFbCd0djJipYUh2Y-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="UPiljFbCd0djJipYUh2Y-11" target="UPiljFbCd0djJipYUh2Y-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="420" as="sourcePoint" />
-            <mxPoint x="510" y="420" as="targetPoint" />
+            <mxPoint x="510" y="420" as="sourcePoint" />
+            <mxPoint x="410" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UPiljFbCd0djJipYUh2Y-15" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#E6E6E6;" connectable="0" vertex="1" parent="UPiljFbCd0djJipYUh2Y-14">
