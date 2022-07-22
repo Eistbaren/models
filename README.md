@@ -1,2 +1,4 @@
-# models
-Our Agile models - heavy scrum shit
+# Documentation - heavy scrum shit
+- Our Agile models
+- RAD
+- SDD
